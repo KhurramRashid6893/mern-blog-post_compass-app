@@ -112,8 +112,6 @@ mutation {
  | ![image](https://github.com/user-attachments/assets/38788cb7-6663-44e9-a9b3-321d409a23dc)
 
 
-> 💡 Add screenshots in a `/screenshots` folder to match the links above.
-
 ---
 
 ## 📌 Author
